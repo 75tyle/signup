@@ -82,6 +82,7 @@ form{
     width: 100%;
     margin: 5px;
     padding-left: 20px;
+    outline: none;
 
 
 }
@@ -209,6 +210,7 @@ form{
         padding: 10px;
         border-radius: 15px;
         font-size: 15px;
+        outline: none;
 
     }
 
